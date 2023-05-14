@@ -21,8 +21,8 @@ body {
     text-align: center;
 }
 .card-img-top {
-border-radius: 25px 25px 0 0;
-width: 28rem;
+    border-radius: 25px 25px 0 0;
+    width: 28rem;
 }
 
 .card-body {
