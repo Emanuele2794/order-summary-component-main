@@ -1,4 +1,14 @@
 html {
-    background-image: url("images/pattern-background-desktop.svg");
+    
 }
 
+body {
+    background-image: url("images/pattern-background-desktop.svg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+border-radius: 25px 25px 25px 25px;
+height: ;
+}
